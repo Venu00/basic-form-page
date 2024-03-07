@@ -44,3 +44,6 @@ This repository contains a basic form page template designed for web development
 - `</body>`: Marks the end of the document's body content.
 
 - `</html>`: Denotes the end of the HTML document.
+
+- ![image](https://github.com/Venu00/basic-form-page/assets/114930220/0e1f54de-9fa1-40c1-99e3-aebda66fec7f)
+
